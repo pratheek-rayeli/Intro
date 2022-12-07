@@ -1,0 +1,242 @@
+body {
+  text-align: center;
+  margin-top: 0;
+  position: relative;
+  font-family: "Merriweather", serif;
+  font-size: 1em;
+  color: #40514E;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+
+}
+p{
+    line-height: 2;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.app-development {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ice {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  margin: auto auto 50px auto;
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+
+  color: #ffffff;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.para1 {
+  color: #40514E;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr {
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 4%;
+margin: 100px auto;
+}
+
+img {
+  background-color: #EAF6F6;
+}
+
+.top-container {
+  height: 1000px;
+  width: 100%;
+  padding-top: 30px;
+  font-family: cursive;
+  background-color: #EAF6F6;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 250px;
+  right: 300px;
+}
+
+.middle-container {
+  padding: 100px 0;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  height: 200px;
+  padding: 50px 0 20px;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+.copyright
+{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.red {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: relative;
+  left: 200px;
+}
+
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: relative;
+  bottom: 100px;
+}
+
+.yellow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: relative;
+  bottom: 200px;
+  left: 100px;
+}
+
+.red1 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  display: block;
+}
+
+.blue1 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.yellow1 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+}
+
+.bodyposition {
+  margin: 0;
+}
+
+.reed {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: absolute;
+}
+
+.bluue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+.yelloow {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+
+.pratheek {
+  width: 250px;
+}
+
+.botom {
+  color: white;
+}
+
+.bottomtext {
+  position: absolute;
+ top: 95%;
+ bottom: 50px;
+ left: 50px;
+ right: 20px;
+}
+.Contactme{
+  width: 40%;
+  margin: 40px auto 60px;
+}
